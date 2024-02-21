@@ -1,0 +1,1 @@
+{"k0": 0.033735884332604986, "k1": 0.05641720685382757, "k2": 0.4297434595449552, "still_distance": 3.0, "vehicle_length": 5.0, "time_gap": 1.3506556017061857, "desired_speed": 35.0, "use_acceleration_constraints": true, "integration_dt": 0.1, "min_acceleration": -7, "max_acceleration": 5}
