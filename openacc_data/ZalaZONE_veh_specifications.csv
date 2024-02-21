@@ -1,0 +1,11 @@
+Vehicles,Max power (kW),Drive-Fuel,Engine displacement (cc),Battery capacity (kWh),Propulsion type,Top speed (km/h),Model year
+Tesla (model X) ,386,electricity,-,90,BEV,250,2016
+Tesla (model 3),250,electricity,-,79,BEV,250,2019
+Tesla (model S),244,electricity,-,75,BEV,225,2018
+Mercedes-Benz (GLE 450 4Matic),270,gasoline,2999,31.2,HEV,250,2019
+Jaguar (I-Pace),294,electricity,-,90,BEV,200,2019
+BMW (I3 s),135,gasoline,647,33.2,HEV,160,2018
+Audi (E-tron),300,electricity,-,83.6,BEV,200,2019
+Toyota (Rav 4),115,gasoline,2487,41.8,HEV,180,2019
+Mazda (3),96,gasoline,1998,-,ICE,197,2019
+Audi (A4 Avant),140,gasoline,1984,0.69,HEV,238,2019
