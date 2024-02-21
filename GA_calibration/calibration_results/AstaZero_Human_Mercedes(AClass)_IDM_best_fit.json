@@ -1,0 +1,1 @@
+{"max_accel_idm": 1.722787057258297, "comfort_decel": 4.998464268686528, "delta": 9.92797100411268, "min_gap": 2.0, "time_headway": 1.7059422970463045, "desired_speed": 34.989148359930915, "use_acceleration_constraints": true, "min_acceleration": -5.0, "max_acceleration": 5.0, "calib_gof_value": 0.7361976778228263}
